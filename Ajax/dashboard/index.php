@@ -27,7 +27,7 @@
                                     <a id="add" class="nav-link">Add Student</a>
                                 </li>
                                 <li class="nav-item">
-                                    <a id="view" class="nav-link">View Student</a>
+                                    <a id="view" class="nav-link disabled">View Student</a>
                                 </li>
                             </ul>
                         </div>
